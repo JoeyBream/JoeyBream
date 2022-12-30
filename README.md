@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoeyBream
 - 👀 I’m interested in using Sankey diagrams to map carbon emissions
-- 🌱 I’m currently learning about climate change, but hoping to start working soon
-- 📫 How to reach me: jjsb3@cam.ac.uk
+- 🌱 I’m hoping to start experiments on path dependecy in Deep Learning
+- 📫 How to reach me: joeybream@gmail.com
 
 <!---
 JoeyBream/JoeyBream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
