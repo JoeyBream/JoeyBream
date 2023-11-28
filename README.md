@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JoeyBream
-- 👀 I’m interested in using Sankey diagrams to map carbon emissions
-- 🌱 I’m hoping to start experiments on path dependecy in Deep Learning
+- 👀 I’ve previously been using Sankey diagrams to map carbon emissions
+- 🌱 I’m hoping to work on automatic building energy control.
+- 🍋 Currently brushing up on Github skills and uploading old projects.
 - 📫 How to reach me: 
 
 <!---
