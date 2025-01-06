@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoeyBream
 - 👀 I’ve previously been using Sankey diagrams to map Scope 3 carbon emissions. 
-- 🌱 I am currently working on office building energy savings.
+- 🌱 Most recently: 18 months in London working on office building energy savings.
 - 🍋 Mainly work in PowerBI using DAX, some Python.
 - 📫 How to reach me: 
 
