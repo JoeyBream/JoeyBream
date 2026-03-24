@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @JoeyBream
-- 👀 Data analyst and operations in London.
-- 🌱 Previous role: Using Power BI to report on £30 million of energy savings in London office buildings across 3 years.
-- 🍋 Future work: Tools to make data maangement easier for non-profits and small businesses.
-- 📫 How to reach me: 
+### Hi, I'm Joey
 
-<!---
-JoeyBream/JoeyBream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Operations lead at [BioTrust](https://sentinelbio.org) — building a shared KYC credential for the biotech supply chain. Also running [Bream Design](https://breamdesign.co.uk), a software agency for biosecurity and AI safety organisations.
+
+Background in engineering (Cambridge, Ecole Centrale), previously operations for AI safety research and data analytics across London's building stock.
+
+Based in London.
+
+
+
+![Languages](https://github.com/JoeyBream/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![Languages](https://github.com/JoeyBream/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
+![Overview](https://github.com/JoeyBream/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![Overview](https://github.com/JoeyBream/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
