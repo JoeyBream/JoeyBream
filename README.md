@@ -6,8 +6,6 @@ Background in engineering (Cambridge, Ecole Centrale), previously operations for
 
 Based in London.
 
-
-
 ![Languages](https://github.com/JoeyBream/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 ![Languages](https://github.com/JoeyBream/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
 ![Overview](https://github.com/JoeyBream/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
